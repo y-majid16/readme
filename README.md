@@ -5,23 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junicotandiago198&label=Profile%20views&color=0e75b6&style=flat" alt="junicotandiago198" /> </p>
 
-- 🔭 I’m currently working on **interested in website development specifically for the backend**
+- 🔭 I’m currently working on **interested in website development specifically for the front end dev**
 
 - 🌱 I’m currently learning **Github Actions, React Js & Node Js.**
 
-- 👯 I’m looking to collaborate on **any open source projects related to PHP, Laravel and Codeigniter (Laravel preferrable).**
+- 👯 I’m looking to collaborate on **any open source projects related to React Js, Vue Js.**
 
-- 💬 Ask me about **PHP Native, Codeigniter, Laravel**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/yaumulmajidd/">Instagram</a> or <a href="#">Twitter</a>**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yaumulmajidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://instagram.com/yaumulmajidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/junico tandiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
