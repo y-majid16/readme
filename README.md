@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **interested in website development specifically for the backend**
 
-- 🌱 I’m currently learning **Github Actions, Laravel & Vue Js.**
+- 🌱 I’m currently learning **Github Actions, React Js & Node Js.**
 
 - 👯 I’m looking to collaborate on **any open source projects related to PHP, Laravel and Codeigniter (Laravel preferrable).**
 
 - 💬 Ask me about **PHP Native, Codeigniter, Laravel**
 
-- 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/junicotandiago21/">Instagram</a> or <a href="#">Twitter</a>**
+- 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/yaumulmajidd/">Instagram</a> or <a href="#">Twitter</a>**
 
 - ⚡ Fun fact **I am Funny**
 
