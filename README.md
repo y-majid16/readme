@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junicotandiago198&label=Profile%20views&color=0e75b6&style=flat" alt="junicotandiago198" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/cute-zebra-working-laptop-cartoon-icon-illustration_138676-2795.jpg?w=826&t=st=1681137234~exp=1681137834~hmac=f49cc57a0c5008a18ac17cda4e2e6e2f9dc2c0f1ec35ffc8b8fe99a168e55838/> </p>
 
 - 🔭 I’m currently working on **interested in website development specifically for the front end dev**
 
