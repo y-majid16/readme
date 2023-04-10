@@ -1,7 +1,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
-<h1 align="center" style="font-family: 'Raleway', sans-serif;">Hallo 👋, I'm Yaumul Majid</h1>
+<style>
+    h1 {font-family: 'Raleway', sans-serif;}
+</style>
+<h1 align="center" style="">Hallo 👋, I'm Yaumul Majid</h1>
 <h3 align="center"><i>Junior Web Developer</i></h3>
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/cute-zebra-working-laptop-cartoon-icon-illustration_138676-2795.jpg?w=826&t=st=1681137234~exp=1681137834~hmac=f49cc57a0c5008a18ac17cda4e2e6e2f9dc2c0f1ec35ffc8b8fe99a168e55838">
