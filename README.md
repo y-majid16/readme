@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **interested in website development specifically for the front end dev**
 
-- 🌱 I’m currently learning **Github Actions, React Js & Node Js.**
+- 🌱 I’m currently learning **Java, React Js & Node Js.**
 
 - 👯 I’m looking to collaborate on **any open source projects related to React Js, Vue Js.**
 
