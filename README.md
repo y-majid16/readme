@@ -1,11 +1,11 @@
 <h1 align="center">Hai 👋, I'm Yaumul Majid </h1>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/cute-zebra-working-laptop-cartoon-icon-illustration_138676-2795.jpg?w=826&t=st=1681137234~exp=1681137834~hmac=f49cc57a0c5008a18ac17cda4e2e6e2f9dc2c0f1ec35ffc8b8fe99a168e55838">
 
-- 🔭 I’m currently working on **interested in website development specifically for the front end dev**
+- 🔭 I’m currently working on **interested in website development specifically for the Back End dev**
 
 - 🌱 I’m currently learning **Java, React Js, Spring.**
 
-- 👯 I’m looking to collaborate on **any open source projects related to React Js, Vue Js.**
+- 👯 I’m looking to collaborate on **any open source projects related to Java, SpringBoot.**
 
 - 💬 Ask me about **Java**
 
